@@ -35,7 +35,7 @@ trabalhoAPI/
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/euclidesrs/Petshop-API-2025-Atualizado.git
-cd petshop-api
+cd trabalhoAPI
 ```
 
 ### 2. Instalar dependências
